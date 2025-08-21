@@ -1,4 +1,4 @@
 HELLO
 WORLD
 
-Allah
+Allahadbar salam
